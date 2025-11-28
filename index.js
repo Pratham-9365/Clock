@@ -7,4 +7,5 @@ clock.innerHTML = date.toLocaleTimeString();
 
 
 console.log("pr testing");
+console.log("pr testing2 ");
 
